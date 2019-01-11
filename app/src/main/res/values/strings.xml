@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Snap a\' Snack</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainmenu">MainMenu</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_result_view">ResultView</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_upload_result_view">UploadResultView</string>
+    <string name="canada">canada</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="to_gallery_view">To Gallery View</string>
+    <string name="main_menu_btn_upload">Snap Your Snack</string>
+    <string name="main_menu_btn_gallery">Community Upload Gallery</string>
+    <string name="nextpage">&gt;</string>
+    <string name="previous_page">&lt;</string>
+    <string name="menu">Menu</string>
+    <string name="gallery_filter">Filter</string>
+    <string name="contentdesc_gallery_filter">Filter Options</string>
+    <string name="filterdialog_filter">Filter</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="ConfidenceRangeValues">
+        <item>0</item>
+        <item>12.5</item>
+        <item>25</item>
+        <item>37.5</item>
+        <item>50</item>
+        <item>62.5</item>
+        <item>75</item>
+        <item>87.5</item>
+        <item>100</item>
+    </string-array>
+
+    <string name="filterBy_datePosted">Date Posted</string>
+    <string name="filterBy_confidenceRating">Confidence Rating</string>
+    <string name="filterBy_comments">Number of Comments</string>
+    <string-array name="filterBy">
+        <item>@string/filterBy_datePosted</item>
+        <item>@string/filterBy_confidenceRating</item>
+        <item>@string/filterBy_comments</item>
+    </string-array>
+
+    <string name="filterDirection_ascending">Ascending</string>
+    <string name="filterDirection_descending">Descending</string>
+</resources>
